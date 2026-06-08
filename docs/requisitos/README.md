@@ -1,0 +1,20 @@
+# Requisitos por Modulo
+
+- [Dashboard](dashboard.md)
+- [Estoque](estoque.md)
+- [Compras](compras.md)
+- [Vendas](vendas.md)
+- [Caixa](caixa.md)
+- [Financeiro](financeiro.md)
+- [Almoxarifado](almoxarifado.md)
+- [Producao](producao.md)
+- [Patrimonio](patrimonio.md)
+- [Manutencao](manutencao.md)
+- [RH](rh.md)
+- [CRM](crm.md)
+- [Logistica](logistica.md)
+- [Documentos](documentos.md)
+- [Administracao](administracao.md)
+- [Relatorios](relatorios.md)
+- [Inteligencia Artificial](inteligencia-artificial.md)
+

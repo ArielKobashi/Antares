@@ -1,0 +1,13 @@
+node_modules/
+dist/
+build/
+.turbo/
+.vite/
+.tools/
+.env
+.env.local
+*.log
+coverage/
+uploads/
+packages/database/prisma/dev.db
+packages/database/prisma/dev.db-journal
